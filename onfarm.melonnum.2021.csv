@@ -1,0 +1,51 @@
+grower,trt,size,num,total
+a,grower standard,1,23,33
+a,grower standard,2,7,33
+a,grower standard,3,3,33
+a,grower standard,4,0,33
+a,grower standard,5,0,33
+a,IPPM-based,1,30,55
+a,IPPM-based,2,23,55
+a,IPPM-based,3,2,55
+a,IPPM-based,4,0,55
+a,IPPM-based,5,0,55
+b,grower standard,1,134,326
+b,grower standard,2,121,326
+b,grower standard,3,71,326
+b,grower standard,4,0,326
+b,grower standard,5,0,326
+b,IPPM-based,1,107,390
+b,IPPM-based,2,139,390
+b,IPPM-based,3,133,390
+b,IPPM-based,4,11,390
+b,IPPM-based,5,0,390
+c,grower standard,1,22,327
+c,grower standard,2,81,327
+c,grower standard,3,122,327
+c,grower standard,4,67,327
+c,grower standard,5,35,327
+c,IPPM-based,1,61,249
+c,IPPM-based,2,24,249
+c,IPPM-based,3,112,249
+c,IPPM-based,4,41,249
+c,IPPM-based,5,11,249
+d,grower standard,1,53,127
+d,grower standard,2,39,127
+d,grower standard,3,31,127
+d,grower standard,4,4,127
+d,grower standard,5,0,127
+d,IPPM-based,1,100,315
+d,IPPM-based,2,114,315
+d,IPPM-based,3,91,315
+d,IPPM-based,4,9,315
+d,IPPM-based,5,1,315
+e,grower standard,1,31,41
+e,grower standard,2,10,41
+e,grower standard,3,0,41
+e,grower standard,4,0,41
+e,grower standard,5,0,41
+e,IPPM-based,1,25,49
+e,IPPM-based,2,9,49
+e,IPPM-based,3,11,49
+e,IPPM-based,4,4,49
+e,IPPM-based,5,0,49

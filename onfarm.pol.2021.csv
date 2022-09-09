@@ -1,0 +1,401 @@
+Grower,trt,sample,obs,visit,floral.dens
+a,grower standard,1,1,1,6
+a,grower standard,1,2,0,5
+a,grower standard,1,3,0,5
+a,grower standard,1,4,0,9
+a,grower standard,1,5,0,6
+a,grower standard,1,6,1,6
+a,grower standard,1,7,0,7
+a,grower standard,1,8,0,7
+a,grower standard,1,9,0,6
+a,grower standard,1,10,1,9
+a,grower standard,1,11,0,8
+a,grower standard,1,12,1,9
+a,grower standard,1,13,0,8
+a,grower standard,1,14,0,9
+a,grower standard,1,15,0,13
+a,grower standard,1,16,0,8
+a,grower standard,1,17,1,7
+a,grower standard,1,18,0,11
+a,grower standard,1,19,3,6
+a,grower standard,1,20,0,6
+a,grower standard,2,1,1,12
+a,grower standard,2,2,0,11
+a,grower standard,2,3,0,14
+a,grower standard,2,4,3,8
+a,grower standard,2,5,3,11
+a,grower standard,2,6,6,17
+a,grower standard,2,7,8,16
+a,grower standard,2,8,7,12
+a,grower standard,2,9,3,11
+a,grower standard,2,10,2,15
+a,grower standard,2,11,0,11
+a,grower standard,2,12,1,6
+a,grower standard,2,13,3,8
+a,grower standard,2,14,0,7
+a,grower standard,2,15,8,7
+a,grower standard,2,16,4,7
+a,grower standard,2,17,2,10
+a,grower standard,2,18,4,10
+a,grower standard,2,19,0,8
+a,grower standard,2,20,5,11
+a,IPPM-based,1,1,1,6
+a,IPPM-based,1,2,3,6
+a,IPPM-based,1,3,3,5
+a,IPPM-based,1,4,0,6
+a,IPPM-based,1,5,4,6
+a,IPPM-based,1,6,0,7
+a,IPPM-based,1,7,0,5
+a,IPPM-based,1,8,5,9
+a,IPPM-based,1,9,4,8
+a,IPPM-based,1,10,0,8
+a,IPPM-based,1,11,1,6
+a,IPPM-based,1,12,2,9
+a,IPPM-based,1,13,0,7
+a,IPPM-based,1,14,0,7
+a,IPPM-based,1,15,0,6
+a,IPPM-based,1,16,5,6
+a,IPPM-based,1,17,2,10
+a,IPPM-based,1,18,4,7
+a,IPPM-based,1,19,10,7
+a,IPPM-based,1,20,0,7
+a,IPPM-based,2,1,0,8
+a,IPPM-based,2,2,0,9
+a,IPPM-based,2,3,4,12
+a,IPPM-based,2,4,4,8
+a,IPPM-based,2,5,1,10
+a,IPPM-based,2,6,13,12
+a,IPPM-based,2,7,7,11
+a,IPPM-based,2,8,6,12
+a,IPPM-based,2,9,12,12
+a,IPPM-based,2,10,5,15
+a,IPPM-based,2,11,3,6
+a,IPPM-based,2,12,2,6
+a,IPPM-based,2,13,1,6
+a,IPPM-based,2,14,2,9
+a,IPPM-based,2,15,0,8
+a,IPPM-based,2,16,7,10
+a,IPPM-based,2,17,6,9
+a,IPPM-based,2,18,4,11
+a,IPPM-based,2,19,6,9
+a,IPPM-based,2,20,8,10
+b,grower standard,1,1,0,9
+b,grower standard,1,2,4,9
+b,grower standard,1,3,1,9
+b,grower standard,1,4,0,15
+b,grower standard,1,5,5,13
+b,grower standard,1,6,4,15
+b,grower standard,1,7,0,13
+b,grower standard,1,8,5,10
+b,grower standard,1,9,5,17
+b,grower standard,1,10,7,17
+b,grower standard,1,11,5,14
+b,grower standard,1,12,1,13
+b,grower standard,1,13,0,18
+b,grower standard,1,14,0,12
+b,grower standard,1,15,3,17
+b,grower standard,1,16,0,10
+b,grower standard,1,17,4,17
+b,grower standard,1,18,1,13
+b,grower standard,1,19,8,18
+b,grower standard,1,20,11,15
+b,grower standard,2,1,0,5
+b,grower standard,2,2,0,5
+b,grower standard,2,3,0,9
+b,grower standard,2,4,3,7
+b,grower standard,2,5,0,6
+b,grower standard,2,6,2,6
+b,grower standard,2,7,3,7
+b,grower standard,2,8,0,8
+b,grower standard,2,9,2,5
+b,grower standard,2,10,6,8
+b,grower standard,2,11,0,5
+b,grower standard,2,12,4,7
+b,grower standard,2,13,0,6
+b,grower standard,2,14,0,5
+b,grower standard,2,15,0,10
+b,grower standard,2,16,0,5
+b,grower standard,2,17,0,5
+b,grower standard,2,18,0,9
+b,grower standard,2,19,2,7
+b,grower standard,2,20,0,6
+b,IPPM-based,1,1,2,10
+b,IPPM-based,1,2,3,7
+b,IPPM-based,1,3,1,8
+b,IPPM-based,1,4,7,10
+b,IPPM-based,1,5,0,8
+b,IPPM-based,1,6,7,10
+b,IPPM-based,1,7,3,10
+b,IPPM-based,1,8,2,6
+b,IPPM-based,1,9,4,12
+b,IPPM-based,1,10,0,10
+b,IPPM-based,1,11,6,6
+b,IPPM-based,1,12,1,7
+b,IPPM-based,1,13,5,12
+b,IPPM-based,1,14,0,7
+b,IPPM-based,1,15,7,17
+b,IPPM-based,1,16,6,7
+b,IPPM-based,1,17,0,10
+b,IPPM-based,1,18,0,9
+b,IPPM-based,1,19,0,6
+b,IPPM-based,1,20,3,8
+b,IPPM-based,2,1,2,13
+b,IPPM-based,2,2,7,12
+b,IPPM-based,2,3,5,10
+b,IPPM-based,2,4,1,12
+b,IPPM-based,2,5,3,12
+b,IPPM-based,2,6,3,16
+b,IPPM-based,2,7,1,11
+b,IPPM-based,2,8,9,11
+b,IPPM-based,2,9,7,17
+b,IPPM-based,2,10,3,8
+b,IPPM-based,2,11,0,8
+b,IPPM-based,2,12,6,12
+b,IPPM-based,2,13,0,10
+b,IPPM-based,2,14,0,15
+b,IPPM-based,2,15,2,16
+b,IPPM-based,2,16,3,7
+b,IPPM-based,2,17,0,9
+b,IPPM-based,2,18,0,13
+b,IPPM-based,2,19,0,11
+b,IPPM-based,2,20,4,9
+c,grower standard,1,1,0,21
+c,grower standard,1,2,0,12
+c,grower standard,1,3,0,13
+c,grower standard,1,4,0,12
+c,grower standard,1,5,2,31
+c,grower standard,1,6,0,18
+c,grower standard,1,7,3,20
+c,grower standard,1,8,0,24
+c,grower standard,1,9,9,24
+c,grower standard,1,10,0,20
+c,grower standard,1,11,0,9
+c,grower standard,1,12,2,9
+c,grower standard,1,13,0,10
+c,grower standard,1,14,0,9
+c,grower standard,1,15,0,6
+c,grower standard,1,16,0,11
+c,grower standard,1,17,1,11
+c,grower standard,1,18,0,7
+c,grower standard,1,19,1,18
+c,grower standard,1,20,5,11
+c,grower standard,2,1,1,7
+c,grower standard,2,2,0,8
+c,grower standard,2,3,2,7
+c,grower standard,2,4,2,11
+c,grower standard,2,5,3,8
+c,grower standard,2,6,2,7
+c,grower standard,2,7,7,8
+c,grower standard,2,8,7,11
+c,grower standard,2,9,0,7
+c,grower standard,2,10,7,11
+c,grower standard,2,11,8,18
+c,grower standard,2,12,5,17
+c,grower standard,2,13,0,12
+c,grower standard,2,14,3,14
+c,grower standard,2,15,5,14
+c,grower standard,2,16,0,11
+c,grower standard,2,17,0,15
+c,grower standard,2,18,1,13
+c,grower standard,2,19,4,20
+c,grower standard,2,20,2,12
+c,IPPM-based,1,1,1,14
+c,IPPM-based,1,2,1,12
+c,IPPM-based,1,3,1,10
+c,IPPM-based,1,4,0,7
+c,IPPM-based,1,5,2,9
+c,IPPM-based,1,6,0,11
+c,IPPM-based,1,7,0,10
+c,IPPM-based,1,8,0,12
+c,IPPM-based,1,9,4,7
+c,IPPM-based,1,10,2,8
+c,IPPM-based,1,11,1,6
+c,IPPM-based,1,12,2,7
+c,IPPM-based,1,13,1,8
+c,IPPM-based,1,14,0,7
+c,IPPM-based,1,15,0,9
+c,IPPM-based,1,16,0,7
+c,IPPM-based,1,17,2,8
+c,IPPM-based,1,18,0,6
+c,IPPM-based,1,19,1,6
+c,IPPM-based,1,20,0,7
+c,IPPM-based,2,1,3,10
+c,IPPM-based,2,2,6,20
+c,IPPM-based,2,3,4,16
+c,IPPM-based,2,4,9,14
+c,IPPM-based,2,5,4,15
+c,IPPM-based,2,6,5,13
+c,IPPM-based,2,7,1,16
+c,IPPM-based,2,8,0,13
+c,IPPM-based,2,9,1,11
+c,IPPM-based,2,10,7,8
+c,IPPM-based,2,11,4,9
+c,IPPM-based,2,12,5,9
+c,IPPM-based,2,13,4,9
+c,IPPM-based,2,14,1,7
+c,IPPM-based,2,15,2,9
+c,IPPM-based,2,16,5,8
+c,IPPM-based,2,17,2,9
+c,IPPM-based,2,18,5,13
+c,IPPM-based,2,19,0,8
+c,IPPM-based,2,20,2,7
+d,grower standard,1,1,3,6
+d,grower standard,1,2,1,6
+d,grower standard,1,3,0,9
+d,grower standard,1,4,0,6
+d,grower standard,1,5,3,8
+d,grower standard,1,6,1,6
+d,grower standard,1,7,1,8
+d,grower standard,1,8,0,6
+d,grower standard,1,9,0,6
+d,grower standard,1,10,0,6
+d,grower standard,1,11,0,7
+d,grower standard,1,12,0,12
+d,grower standard,1,13,4,9
+d,grower standard,1,14,0,10
+d,grower standard,1,15,0,7
+d,grower standard,1,16,0,9
+d,grower standard,1,17,0,8
+d,grower standard,1,18,3,8
+d,grower standard,1,19,0,6
+d,grower standard,1,20,0,6
+d,grower standard,2,1,4,8
+d,grower standard,2,2,0,6
+d,grower standard,2,3,0,7
+d,grower standard,2,4,0,7
+d,grower standard,2,5,1,7
+d,grower standard,2,6,0,7
+d,grower standard,2,7,1,7
+d,grower standard,2,8,0,6
+d,grower standard,2,9,2,7
+d,grower standard,2,10,7,8
+d,grower standard,2,11,0,8
+d,grower standard,2,12,0,8
+d,grower standard,2,13,1,9
+d,grower standard,2,14,0,10
+d,grower standard,2,15,4,12
+d,grower standard,2,16,0,7
+d,grower standard,2,17,0,15
+d,grower standard,2,18,4,8
+d,grower standard,2,19,0,10
+d,grower standard,2,20,0,8
+d,IPPM-based,1,1,6,11
+d,IPPM-based,1,2,0,10
+d,IPPM-based,1,3,0,11
+d,IPPM-based,1,4,1,14
+d,IPPM-based,1,5,0,9
+d,IPPM-based,1,6,1,7
+d,IPPM-based,1,7,0,6
+d,IPPM-based,1,8,0,13
+d,IPPM-based,1,9,0,9
+d,IPPM-based,1,10,1,13
+d,IPPM-based,1,11,1,22
+d,IPPM-based,1,12,0,18
+d,IPPM-based,1,13,0,13
+d,IPPM-based,1,14,5,17
+d,IPPM-based,1,15,0,30
+d,IPPM-based,1,16,0,28
+d,IPPM-based,1,17,7,32
+d,IPPM-based,1,18,3,14
+d,IPPM-based,1,19,1,26
+d,IPPM-based,1,20,0,26
+d,IPPM-based,2,1,6,7
+d,IPPM-based,2,2,8,6
+d,IPPM-based,2,3,3,6
+d,IPPM-based,2,4,3,6
+d,IPPM-based,2,5,7,7
+d,IPPM-based,2,6,3,6
+d,IPPM-based,2,7,10,7
+d,IPPM-based,2,8,1,9
+d,IPPM-based,2,9,10,9
+d,IPPM-based,2,10,2,6
+d,IPPM-based,2,11,5,15
+d,IPPM-based,2,12,0,10
+d,IPPM-based,2,13,3,11
+d,IPPM-based,2,14,1,7
+d,IPPM-based,2,15,4,11
+d,IPPM-based,2,16,6,12
+d,IPPM-based,2,17,0,9
+d,IPPM-based,2,18,0,7
+d,IPPM-based,2,19,1,9
+d,IPPM-based,2,20,0,7
+e,grower standard,1,1,2,6
+e,grower standard,1,2,0,6
+e,grower standard,1,3,0,6
+e,grower standard,1,4,0,6
+e,grower standard,1,5,0,6
+e,grower standard,1,6,0,6
+e,grower standard,1,7,0,6
+e,grower standard,1,8,0,6
+e,grower standard,1,9,0,6
+e,grower standard,1,10,1,6
+e,grower standard,1,11,1,6
+e,grower standard,1,12,1,6
+e,grower standard,1,13,0,7
+e,grower standard,1,14,1,7
+e,grower standard,1,15,2,7
+e,grower standard,1,16,1,7
+e,grower standard,1,17,0,5
+e,grower standard,1,18,0,7
+e,grower standard,1,19,3,12
+e,grower standard,1,20,0,8
+e,grower standard,2,1,1,11
+e,grower standard,2,2,0,9
+e,grower standard,2,3,0,7
+e,grower standard,2,4,3,9
+e,grower standard,2,5,1,8
+e,grower standard,2,6,1,11
+e,grower standard,2,7,5,13
+e,grower standard,2,8,1,11
+e,grower standard,2,9,0,13
+e,grower standard,2,10,4,15
+e,grower standard,2,11,3,10
+e,grower standard,2,12,4,9
+e,grower standard,2,13,0,13
+e,grower standard,2,14,4,14
+e,grower standard,2,15,0,13
+e,grower standard,2,16,3,15
+e,grower standard,2,17,0,10
+e,grower standard,2,18,3,13
+e,grower standard,2,19,3,12
+e,grower standard,2,20,7,21
+e,IPPM-based,1,1,0,8
+e,IPPM-based,1,2,4,13
+e,IPPM-based,1,3,0,14
+e,IPPM-based,1,4,0,15
+e,IPPM-based,1,5,0,11
+e,IPPM-based,1,6,0,9
+e,IPPM-based,1,7,0,11
+e,IPPM-based,1,8,1,15
+e,IPPM-based,1,9,0,11
+e,IPPM-based,1,10,0,11
+e,IPPM-based,1,11,4,14
+e,IPPM-based,1,12,0,10
+e,IPPM-based,1,13,1,11
+e,IPPM-based,1,14,0,16
+e,IPPM-based,1,15,0,12
+e,IPPM-based,1,16,0,7
+e,IPPM-based,1,17,3,10
+e,IPPM-based,1,18,1,14
+e,IPPM-based,1,19,0,6
+e,IPPM-based,1,20,0,14
+e,IPPM-based,2,1,3,10
+e,IPPM-based,2,2,6,9
+e,IPPM-based,2,3,0,9
+e,IPPM-based,2,4,0,14
+e,IPPM-based,2,5,2,7
+e,IPPM-based,2,6,11,18
+e,IPPM-based,2,7,14,23
+e,IPPM-based,2,8,11,15
+e,IPPM-based,2,9,6,13
+e,IPPM-based,2,10,5,17
+e,IPPM-based,2,11,3,6
+e,IPPM-based,2,12,0,9
+e,IPPM-based,2,13,7,8
+e,IPPM-based,2,14,3,10
+e,IPPM-based,2,15,1,7
+e,IPPM-based,2,16,4,12
+e,IPPM-based,2,17,3,10
+e,IPPM-based,2,18,2,13
+e,IPPM-based,2,19,3,12
+e,IPPM-based,2,20,6,11
